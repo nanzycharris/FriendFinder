@@ -1,0 +1,40 @@
+.jumbotron {
+    background: #dacec1;
+    outline-color: black;
+  }
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.body {
+    background: #e4ebf1;
+  }
+
+hr {
+    border-color: inherit;
+    margin: 1em 0;
+  }
+
+.btn {
+background-color: rgb(250, 71, 71);
+border-color: white;
+}
+
+.Maintitle {
+  color: rgb(250, 245, 250);
+  -webkit-text-stroke-color: rgb(160, 158, 158);
+  -webkit-text-stroke-width: 0.01px; 
+  }
+  
+#resultsModal img {
+    overflow: hidden;
+    width: 500px;
+  }
+
+#keanu {
+  color: rgb(241, 24, 9);
+}
+
