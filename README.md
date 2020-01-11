@@ -1,6 +1,6 @@
 # FriendFinder
 Friend Finder app using Node and Express
-Heroku deployed link:
+Heroku deployed link: https://friendfinderkeanu.herokuapp.com/
 
 The "FriendFinderKeanu" application works, basically, as a dating app. 
 
