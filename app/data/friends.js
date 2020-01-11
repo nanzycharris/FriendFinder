@@ -50,7 +50,7 @@ var friends = [
     {
         name: "Alex Wyler",
         photo:
-            "http://1.bp.blogspot.com/_X6Isw4ybb4U/R8A2j-wbxQI/AAAAAAAADYs/H9DjXvzrS7E/s1600-h/g%C3%83%C2%B6levi3.jpg",
+            "https://www.superiorpics.com/movie_pictures/mp/2006_The_Lake_House/2006_the_lake_house_029.jpg",
         scores: [3, 5, 4, 5, 5, 2, 3, 3, 4, 3]
     },
     {
